@@ -3,7 +3,7 @@ Tugas Pemrograman WEB
 
 Nama      : Wahyudi Hermawan <br>
 NIM       : 311910106 <br>
-Kelas     : TI.19.B1 <br.
+Kelas     : TI.19.B1 <br>
 
 **1. Membuat Order List <br>**
 ![image](https://user-images.githubusercontent.com/81253746/114261379-6b8ecf00-9a04-11eb-9e72-a9d75264708a.png) <br>
